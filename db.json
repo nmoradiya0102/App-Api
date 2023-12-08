@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typi"
+    },
+    {
+      "title": "mily",
+      "author": "moradiya",
+      "id": 3
+    },
+    {
+      "title": "niyatiiiiiiiiii",
+      "author": "moradiya ",
+      "id": 4
+    },
+    {
+      "title": "niyati ",
+      "author": "moradiya ",
+      "id": 5
+    },
+    {
+      "title": "Niyati",
+      "author": "Moradiya",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
