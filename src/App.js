@@ -71,8 +71,8 @@ const App = () => {
     };
 
   useEffect(() => {
-    getData();``
-  }, [data]);
+    getData();
+  }, []);
 
   return (
     <div>
